@@ -17,7 +17,6 @@ I'm always eager to learn and grow in these areas. If you're interested in colla
 ### Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/jaafar-mahmoud)
-- [Email](jaafar.a.mahmoud1@gmail.com)
 - [Google Scholar](https://scholar.google.com/citations?user=wq-hOLEAAAAJ&hl=en)
 - [LeetCode](https://leetcode.com/Jul_m/)
 - [Kaggle](https://www.kaggle.com/jaafarmahmoud1)
