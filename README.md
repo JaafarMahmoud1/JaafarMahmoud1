@@ -12,6 +12,7 @@ Currently, digging in:
 - Deep Implicit Layers
 - Diffusion Models
 - Reinforcement Learning (RL)
+  
 I'm always eager to learn and grow in these areas. If you're interested in collaborating on projects related to these topics, feel free to reach out!
 
 ### Connect with Me
