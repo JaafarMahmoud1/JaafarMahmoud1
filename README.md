@@ -2,16 +2,16 @@
 
 I'm passionate about robotics, perception, and mapping. Currently, I'm diving deep into:
 
-- Deep Implicit Layers
-- Diffusion Models
-- Reinforcement Learning (RL)
 - Simultaneous Localization and Mapping (SLAM)
 - 3D Mapping
 - Robotic Foundation Models
 - Advanced Mathematics
 
 ### Learning and Collaboration
-
+Currently, digging in:
+- Deep Implicit Layers
+- Diffusion Models
+- Reinforcement Learning (RL)
 I'm always eager to learn and grow in these areas. If you're interested in collaborating on projects related to these topics, feel free to reach out!
 
 ### Connect with Me
